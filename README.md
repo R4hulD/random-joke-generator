@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://randjoke.netlify.app/" color="white" target="_blank">
+    <a href="https://randjoke.netlify.app/" target="_blank" color="white">
       Live
     </a>
     <span> | </span>
