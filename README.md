@@ -1,7 +1,8 @@
-<img src="https://github.com/catherineisonline/advice-generator-app-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
+![image](https://github.com/R4hulD/random-joke-generator/assets/101360312/692c2fa8-98c2-46e4-8df8-75a62593e90f)
 
 
-<h1 align="center">Advice generator app</h1>
+
+<h1 align="center">random joke generator app</h1>
 
 <div align="center">
   <h3>
