@@ -9,7 +9,6 @@
     <a href="https://randjoke.netlify.app/" target="_blank" color="white">
       Live
     </a>
-    <span> | </span>
   </h3>
 </div>
 <div align="center">
@@ -21,7 +20,7 @@
 
 ## About The Project
 
-<p>The perfect project if you're learning how to interact with 3rd-party APIs. This challenge uses the Jokes API to generate random jokes xD
+<p>The perfect project if you're learning how to interact with 3rd-party APIs. Uses the Jokes API to generate random jokes xD
 <br>
   
 ## Built with 
