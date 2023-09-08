@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://catherineisonline.github.io/advice-generator-app-frontendmentor/" color="white">
+    <a href="https://randjoke.netlify.app/" color="white">
       Live
     </a>
     <span> | </span>
